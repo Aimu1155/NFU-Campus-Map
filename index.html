@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>虎尾科技大學校園地圖</title>
+
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+<!-- 左上角三條線按鈕 -->
+<button class="menu-button" onclick="openMenu()">
+    ☰
+</button>
+
+
+<!-- 側邊選單 -->
+<div id="sideMenu" class="side-menu">
+
+    <div class="menu-header">
+
+        <h2>常用地點</h2>
+
+        <button class="close-button" onclick="closeMenu()">
+            ×
+        </button>
+
+    </div>
+
+
+    <div class="menu-list">
+
+        <button onclick="showPlace('president')">
+            🏢 校長室
+        </button>
+
+        <button onclick="showPlace('academic')">
+            📚 教務處
+        </button>
+
+        <button onclick="showPlace('student')">
+            👨‍🎓 學務處
+        </button>
+
+        <button onclick="showPlace('library')">
+            📖 圖書館
+        </button>
+
+        <button onclick="showPlace('information')">
+            💻 資訊大樓
+        </button>
+
+        <button onclick="showPlace('management')">
+            🏫 管理學院
+        </button>
+
+    </div>
+
+</div>
+
+
+<!-- 黑色半透明背景 -->
+<div
+    id="menuOverlay"
+    class="menu-overlay"
+    onclick="closeMenu()"
+></div>
+
+<header>
+    <h1>🐯 國立虎尾科技大學校園地圖</h1>
+</header>
+
+
+<div class="search-box">
+
+    <h2>🔍 教室搜尋</h2>
+
+    <p class="search-text">
+        請輸入教室名稱或教室代碼
+    </p>
+
+<div class="search-input-group">
+
+    <input
+        type="text"
+        id="searchInput"
+        placeholder="例如：CMA0101"
+        oninput="showSuggestions()"
+    >
+
+    <button onclick="searchClassroom()">
+        搜尋
+    </button>
+
+    </div>
+
+<div id="suggestions" class="suggestions"></div>
+
+
+<div id="result" class="result">
+
+    <div class="result-icon">
+        📍
+    </div>
+
+    <div class="result-content">
+
+        <div class="result-title">
+            尚未搜尋教室
+        </div>
+
+        <div class="result-text">
+            請輸入教室名稱，例如 CMA0101
+        </div>
+
+    </div>
+
+</div>
+
+
+<div class="map-container">
+
+    <img
+        src="./images/campus-map.png"
+        id="campusMap"
+        alt="虎尾科技大學校園地圖"
+        onclick="openMap()"
+    >
+
+    <p class="map-hint">
+        🔍 點擊地圖可放大查看
+    </p>
+
+</div>
+
+
+<script src="./script.js"></script>
+
+<!-- 地圖放大視窗 -->
+<div id="mapModal" class="map-modal">
+
+    <button class="map-close" onclick="closeMap()">
+        ×
+    </button>
+
+    <div class="zoom-controls">
+
+        <button onclick="zoomIn()">＋</button>
+
+        <button onclick="zoomOut()">－</button>
+
+        <button onclick="resetZoom()">重設</button>
+
+    </div>
+
+    <div class="map-zoom-area">
+
+        <img
+            src="./images/campus-map.png"
+            id="zoomMap"
+            alt="虎尾科技大學校園地圖"
+        >
+
+    </div>
+
+</div>
+
+</body>
+
+</html>

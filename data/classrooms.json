@@ -1,0 +1,503 @@
+[
+    {
+        "room": "作者",
+        "campus": "偉辰大帥哥",
+        "building": "雲林",
+        "floor": "1樓"
+    },
+
+
+
+
+
+    
+    {
+        "room": "CMA0101",
+        "campus": "第三校區",
+        "building": "文理暨管理大樓",
+        "floor": "1樓"
+    },
+
+    {
+        "room": "CMA0102",
+        "campus": "第三校區",
+        "building": "文理暨管理大樓",
+        "floor": "1樓"
+    },
+
+    {
+        "room": "CMA0103",
+        "campus": "第三校區",
+        "building": "文理暨管理大樓",
+        "floor": "1樓"
+    },
+
+    {
+        "room": "CMA0401",
+        "campus": "第三校區",
+        "building": "文理暨管理大樓",
+        "floor": "4樓"
+    },
+    {
+        "room": "CMA0402",
+        "campus": "第三校區",
+        "building": "文理暨管理大樓",
+        "floor": "4樓"
+    },
+    {
+        "room": "CMA0403",
+        "campus": "第三校區",
+        "building": "文理暨管理大樓",
+        "floor": "4樓"
+    },
+    {
+        "room": "CMA0404",
+        "campus": "第三校區",
+        "building": "文理暨管理大樓",
+        "floor": "4樓"
+    },
+    {
+        "room": "CMA0405",
+        "campus": "第三校區",
+        "building": "文理暨管理大樓",
+        "floor": "4樓"
+    },
+    {
+        "room": "CMA0406",
+        "campus": "第三校區",
+        "building": "文理暨管理大樓",
+        "floor": "4樓"
+    },
+    {
+        "room": "CMA0407",
+        "campus": "第三校區",
+        "building": "文理暨管理大樓",
+        "floor": "4樓"
+    },
+    {
+        "room": "CMA0408",
+        "campus": "第三校區",
+        "building": "文理暨管理大樓",
+        "floor": "4樓"
+    },
+    {
+        "room": "CMA0409",
+        "campus": "第三校區",
+        "building": "文理暨管理大樓",
+        "floor": "4樓"
+    },
+    {
+        "room": "CMA0410",
+        "campus": "第三校區",
+        "building": "文理暨管理大樓",
+        "floor": "4樓"
+    },
+
+
+
+    {
+        "room": "CMA0604(管理學院)",
+        "campus": "第三校區",
+        "building": "文理暨管理大樓",
+        "floor": "6樓"
+    },
+
+    {
+        "room": "管理學院",
+        "campus": "第三校區",
+        "building": "文理暨管理大樓",
+        "floor": "6樓(CMA0604)"
+    },
+
+
+
+
+
+
+    {
+        "room": "CMA0901",
+        "campus": "第三校區",
+        "building": "文理暨管理大樓",
+        "floor": "9樓"
+    },
+
+
+    {
+        "room": "AIA0201",
+        "campus": "第一校區",
+        "building": "資訊大樓",
+        "floor": "2樓"
+    },
+
+    {
+        "room": "ATA0201",
+        "campus": "第一校區",
+        "building": "第一教學大樓",
+        "floor": "2樓"
+    },
+
+    {
+        "room": "ATB0301",
+        "campus": "第一校區",
+        "building": "第二教學大樓",
+        "floor": "3樓"
+    },
+
+
+
+
+
+
+
+
+    {
+        "room": "行政大樓",
+        "campus": "第一校區",
+        "building": "--",
+        "floor": "--"
+    },
+
+
+    {
+        "room": "出納組",
+        "campus": "第1校區",
+        "building": "行政大樓",
+        "floor": "1樓"
+    },
+
+    {
+        "room": "生活輔導組",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "1樓"
+    },
+
+    {
+        "room": "生輔組長室",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "1樓"
+    },
+
+    {
+        "room": "電信機房",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "1樓"
+    },
+
+    {
+        "room": "軍訓主任室",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "1樓"
+    },
+
+    {
+        "room": "軍訓室",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "1樓"
+    },
+
+    {
+        "room": "校安中心",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "1樓"
+    },
+
+    {
+        "room": "教學業務組",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "1樓"
+    },
+
+
+
+    {
+        "room": "校長室",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "2樓"
+    },
+
+    {
+        "room": "副校長室",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "2樓"
+    },
+
+    {
+        "room": "主任祕書室",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "2樓"
+    },
+
+    {
+        "room": "秘書室",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "2樓"
+    },
+
+    {
+        "room": "學務長室",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "2樓"
+    },
+
+    {
+        "room": "主計室",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "3樓"
+    },
+
+    {
+        "room": "主計室主任室",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "3樓"
+    },
+
+    {
+        "room": "行政大樓機房",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "3樓"
+    },
+
+    {
+        "room": "教務長室",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "3樓"
+    },
+
+    {
+        "room": "綜合教務組",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "3樓"
+    },
+
+    {
+        "room": "選才專案辦公室",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "3樓"
+    },
+
+    {
+        "room": "人事室",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "3樓"
+    },
+
+    {
+        "room": "研發處會議室",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "4樓"
+    },
+
+    {
+        "room": "學術服務組",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "4樓"
+    },
+
+    {
+        "room": "綜合企劃組",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "4樓"
+    },
+
+    {
+        "room": "跨領域學苑辦公室",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "4樓"
+    },
+
+    {
+        "room": "雙語教學資源中心",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "4樓"
+    },
+
+    {
+        "room": "實習組",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "4樓"
+    },
+
+    {
+        "room": "總務長室",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "4樓"
+    },
+
+    {
+        "room": "研發長室",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "4樓"
+    },
+
+    {
+        "room": "營繕組",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "4樓"
+    },
+
+    {
+        "room": "事務組",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "4樓"
+    },
+
+    {
+        "room": "開標室",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "4樓"
+    },
+
+    {
+        "room": "招生業務組",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "5樓"
+    },
+
+    {
+        "room": "環保及安全衛生中心",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "5樓"
+    },
+
+    {
+        "room": "職涯發展中心",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "5樓"
+    },
+
+    {
+        "room": "校務發展中心",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "5樓"
+    },
+
+    {
+        "room": "育才平臺執行辦公室",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "5樓"
+    },
+
+    {
+        "room": "國際長室",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "5樓"
+    },
+
+    {
+        "room": "國際事務處",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "5樓"
+    },
+
+    {
+        "room": "保管組",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "5樓"
+    },
+
+    {
+        "room": "文書組",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "5樓"
+    },
+
+    {
+        "room": "檔案室",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "5樓"
+    },
+
+    {
+        "room": "檔案應用服務區",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "5樓"
+    },
+
+    {
+        "room": "第一會議室",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "6樓"
+    },
+
+    {
+        "room": "第二會議室",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "6樓"
+    },
+
+    {
+        "room": "陳誠藝廊",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "6樓"
+    },
+
+    {
+        "room": "第三會議室",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "6樓"
+    },
+
+    {
+        "room": "簡報室",
+        "campus": "第一校區",
+        "building": "行政大樓",
+        "floor": "6樓"
+    },
+
+
+
+    {
+        "room": "電算中心",
+        "campus": "第一校區",
+        "building": "資訊大樓",
+        "floor": "3樓"
+    }
+
+
+
+]
